@@ -1,0 +1,2 @@
+This is the privacy policy for the alexa skill Zombie Fever. This project is a completely open source project. Anyone with access to this
+ github repository is free to duplicate or modify the code.
